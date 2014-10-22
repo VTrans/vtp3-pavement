@@ -14,3 +14,4 @@
 ##10222014
 1. gdb's and symbology created for ago publish
 2. ago map, app, and feature service created
+3. made ago thumbnails
