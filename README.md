@@ -10,3 +10,6 @@ vtp3-pavement
 ##10212014
 1. various errors encountered on imports and transformations
 2. project year addition ready for gdb creation tomorrow
+
+##10222014
+1. gdb's and symbology created for ago publish
