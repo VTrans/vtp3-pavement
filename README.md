@@ -15,3 +15,8 @@
 1. gdb's and symbology created for ago publish
 2. ago map, app, and feature service created
 3. made ago thumbnails
+
+##10232014
+1. add route and town to pop up enhancement task identified
+2. adding attributes and populating in dtims
+3. fixing tables for service publish
