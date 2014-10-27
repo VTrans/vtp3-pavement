@@ -25,4 +25,9 @@
 
 ##10242014
 1. regenerate pavement condition web app
-2. 
+2. pretty up for monday presentation
+
+##10272014
+1. see timebox1 readme in roadmap for meeting notes
+2. pulling historic condition data from 2008-2013 for charting of comp index
+3. fixed bridge closure link for missing links
