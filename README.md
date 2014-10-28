@@ -31,3 +31,7 @@
 1. see timebox1 readme in roadmap for meeting notes
 2. pulling historic condition data from 2008-2013 for charting of comp index
 3. fixed bridge closure link for missing links
+
+##10282014
+1. Added States/Provinces Boundary backgorund layer for popping VT look.
+2. Set filter on States/Provinces Boundary to ("postal" is not "VT") and Fill Transperency to 70%.
