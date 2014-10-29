@@ -38,5 +38,5 @@
 3. created expressions and transformations in dtims to create historic condition data
 
 ##10292014
-1. created and published historic condition data service, remade map
+1. created and published historic condition data service, remade map, remade app with new template format
 2. added historic chart popup and projects to map
