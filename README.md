@@ -35,3 +35,8 @@
 ##10282014
 1. Added States/Provinces Boundary backgorund layer for popping VT look.
 2. Set filter on States/Provinces Boundary to ("postal" is not "VT") and Fill Transperency to 70%.
+3. created expressions and transformations in dtims to create historic condition data
+
+##10292014
+1. created and published historic condition data service, remade map
+2. added historic chart popup and projects to map
