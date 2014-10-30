@@ -40,3 +40,7 @@
 ##10292014
 1. created and published historic condition data service, remade map, remade app with new template format
 2. added historic chart popup and projects to map
+
+##10302014
+1. web app updates using new template, symbology updates
+2. 
